@@ -3,5 +3,5 @@
 class Person:
     def __init__(self, name):
         self.name = name
-guy = Dog("Fido")
+guy = Person("Might Guy")
 guy.name
